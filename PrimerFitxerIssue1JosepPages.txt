@@ -1,0 +1,5 @@
+Hola.
+Estaria molt bé de poder treballar junts eficaçment amb el Git.
+Salut!!
+
+Josep
