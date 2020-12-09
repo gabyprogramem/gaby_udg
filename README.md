@@ -1,2 +1,2 @@
 # gaby_udg
-esvorrar
+esborrar a l'acabar
